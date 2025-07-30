@@ -5,4 +5,4 @@ npm install
 npm start
 ```
 
-Head over to [https://vitejs.dev/](https://movescounter.netlify.app/) and have a look!
+Head over to https://movescounter.netlify.app/ and have a look!
